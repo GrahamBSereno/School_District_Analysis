@@ -6,10 +6,10 @@ The school board has notified relevant personnel that the reading and math grade
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 - How is the district summary affected?
   - Before:
-  ![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/DistrictSummaryBefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryBefore.png)
   
   - After:
-  ![alt text](https://github.com/GrahamBSereno/Election_Analysis/blob/main/Resources/DistrictSummaryAfter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryAfter.png)
   
 - How is the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
