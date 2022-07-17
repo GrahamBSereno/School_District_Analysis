@@ -5,7 +5,7 @@ The school board has notified relevant personnel that the reading and math grade
 
 Results:
 - How is the district summary affected?
-  - As shown below, the district summary is not significantly effected by the change. This metric takes into account the entire district, so the removal of one ninth grade class from one school only slighlty reduces the average math score, passing math rate, and overall passing rate.
+  - As shown below, the district summary is not significantly effected by the change. This metric takes into account the entire district, so the removal of one ninth grade class from one school only slighlty reduces the average math score, passing reading rate, passing math rate, and overall passing rate.
   - Before:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryBefore.png)
   
@@ -57,7 +57,7 @@ Results:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/spendingafter.png)
 
 
-- Scores by school size - as shown below, scores by spending remained largely unchanged with a slight decrease reading passing.
+- Scores by school size - as shown below, scores by spending changed as the medium (1000-2000) group saw reductions in passing math rate, passing reading rate, and overall passing rate.
   - Before:
   
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizebefore.png)
@@ -66,7 +66,7 @@ Results:
   
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizeafterwards.png)
 
-- Scores by school type - No changes noted.
+- Scores by school type - Charter school passing rates dropped accross math, reading, and overall.
 
   - Before:
   
@@ -78,5 +78,8 @@ Results:
 
 ## Summary:
 The main four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are:
-- From a district summary perspective, aerage math score, passing math rate, passing reading rate, and overall passing rate.
+- From a district summary perspective, slight reductions (<0.05) were seen in average math score, passing reading rate, passing math rate, and overall passing rate.
+- Reading passing for the scores by size analysis reduced in the medium (1000-2000) school size bucket by approximately 5%.
+- In terms of scores by by shool type, the charter school type saw slight reductions in passing math rate, passing reading rate, and overall passing rate (all approx. 5%)
+- In scores by spending, the passing reading, passing math, and overall passing rates dropped significantly in the $630-644 bucket. (all near or above 5% reductions)
 
