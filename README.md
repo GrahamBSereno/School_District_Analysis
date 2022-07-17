@@ -27,7 +27,7 @@ Results:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/top5before.png)
   
   - After:
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/top5after.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/top5after.png)
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade - as shown below the 9th grade math and reading scores for Thomas High School are removed.
@@ -41,40 +41,40 @@ Results:
   
    - Reading Before:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/readingbefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/readingbefore.png)
   
    - Reading After:
    
-   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/readingafter.png)
+   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/readingafter.png)
   
 - Scores by school spending - As shown below, scores by spending remained largely unchanged with a slight decrease reading passing and passing overall.
   - Before:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/spendingbefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/spendingbefore.png)
   
   - After:
  
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/spendingafter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/spendingafter.png)
 
 
 - Scores by school size - as shown below, scores by spending changed as the medium (1000-2000) group saw reductions in passing math rate, passing reading rate, and overall passing rate.
   - Before:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizebefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/sizebefore.png)
   
   - After:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizeafterwards.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/sizeafterwards.png)
 
 - Scores by school type - Charter school passing rates dropped accross math, reading, and overall.
 
   - Before:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/typebefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/typebefore.png)
   
   - After:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/typeafter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/typeafter.png)
 
 ## Summary:
 The main four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are:
