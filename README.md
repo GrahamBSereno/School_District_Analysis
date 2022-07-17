@@ -45,25 +45,31 @@ Results:
   
 - Scores by school spending
   - Before:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/spendingbefore.png)
   
   - After:
+ 
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/spendingafter.png)
 
 
 - Scores by school size
   - Before:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizebefore.png)
   
   - After:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizeafter.png)
 
 - Scores by school type
 
   - Before:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/typebefore.png)
   
   - After:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/typeafter.png)
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
