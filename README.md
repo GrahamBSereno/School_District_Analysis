@@ -5,7 +5,7 @@ The school board has notified relevant personnel that the reading and math grade
 
 Results:
 - How is the district summary affected?
-  - As shown below, the district summary is not significantly effected by the change. This metric takes into account the entire district, so the removal of one ninth grade class from one school only slighlty reduces the average math score, passing math rate, passing reading rate, and overall passing rate.
+  - As shown below, the district summary is not significantly effected by the change. This metric takes into account the entire district, so the removal of one ninth grade class from one school only slighlty reduces the average math score, passing math rate, and overall passing rate.
   - Before:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryBefore.png)
   
