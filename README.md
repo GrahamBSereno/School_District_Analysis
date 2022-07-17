@@ -3,7 +3,7 @@
 ##Overview of the school district analysis
 The school board has notified relevant personnel that the reading and math grades for Thomas High School have been altered. The purpose of this analysis is to replace the math and reading scores with the accurate data while preserving data integrity. The next task is to analyze the school district data for spending and academic trends prior to and after the change.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+Results:
 - How is the district summary affected?
   - Before:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryBefore.png)
@@ -12,6 +12,11 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryAfter.png)
   
 - How is the school summary affected?
+  - Before:
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/schoolsummarybefore.png)
+  
+  - After:
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/schoolsummaryafter.png)
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
