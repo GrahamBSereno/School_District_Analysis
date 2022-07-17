@@ -60,7 +60,7 @@ Results:
   
   - After:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizeafter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/sizeafterwards.png)
 
 - Scores by school type
 
