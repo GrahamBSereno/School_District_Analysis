@@ -7,24 +7,24 @@ Results:
 - How is the district summary affected?
   - As shown below, the district summary is not significantly effected by the change. This metric takes into account the entire district, so the removal of one ninth grade class from one school only slighlty reduces the average math score, passing reading rate, passing math rate, and overall passing rate.
   - Before:
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryBefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/DistrictSummaryBefore.png)
   
   - After:
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/DistrictSummaryAfter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/DistrictSummaryAfter.png)
   
   
 - How is the school summary affected?
   - As shown below, the school summary is not significantly effected by the change. The average math score decreased and average reading score increased. These did not affect overall Thomas High School ranking position.
   - Before:
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/schoolsummarybefore.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/schoolsummarybefore.png)
   
   - After:
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/schoolsummaryafter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/schoolsummaryafter.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - As shown below, the removal of the ninth grade reading scores does not affect overall 2nd place rank
   - Before:
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/top5before.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/top5before.png)
   
   - After:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/top5after.png)
@@ -33,11 +33,11 @@ Results:
   - Math and reading scores by grade - as shown below the 9th grade math and reading scores for Thomas High School are removed.
    - Math Before:
    
-   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/mathbefore.png)
+   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/mathbefore.png)
   
    - Math After:
   
-  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/mathafter.png)
+  ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/Resources/mathafter.png)
   
    - Reading Before:
   
