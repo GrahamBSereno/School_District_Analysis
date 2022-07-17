@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of the school district analysis
-The school board has notified relevant personnel that the reading and math grades for Thomas High School have been altered. The purpose of this analysis is to replace the math and reading scores with the accurate data while preserving data integrity. The next task is to analyze the school district data for spending and academic trends prior to and after the change.
+The school board has notified relevant personnel that the reading and math grades for Thomas High School have been altered. The purpose of this analysis is to omit the Thomas High School 9th grade math and reading scores while preserving data integrity. The next task is to analyze the school district data for spending and academic trends prior to and after the change. These metrics are tracked on a district level, so any 9th grade academic dishonesty at Thomas High School needs to be resolved to avoid impacts to overall rankings.
 
 Results:
 - How is the district summary affected?
@@ -14,7 +14,7 @@ Results:
   
   
 - How is the school summary affected?
-  - As shown below, the school summary is not significantly effected by the change. The average math score decreased and verage reading score increased. These were both less that 5 basis point changes and did not affect overall Thomas High School ranking position.
+  - As shown below, the school summary is not significantly effected by the change. The average math score decreased and average reading score increased. These did not affect overall Thomas High School ranking position.
   - Before:
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/schoolsummarybefore.png)
   
