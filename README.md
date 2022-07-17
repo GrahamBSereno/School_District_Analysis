@@ -27,16 +27,20 @@ Results:
 
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
-    - Math Before:
+   - Math Before:
+   
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/mathbefore.png)
   
    - Math After:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/mathafter.png)
   
    - Reading Before:
+  
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/readingbefore.png)
   
    - Reading After:
+   
   ![alt text](https://github.com/GrahamBSereno/School_District_Analysis/blob/main/readingafter.png)
   
 - Scores by school spending
